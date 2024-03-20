@@ -1,12 +1,12 @@
 h1 {
-    margin: 0;
+    margin: 0px;
     color: rgb(255,255,255);
 }
 p {
-    margin: 0;
+    margin: 0px;
 }
 body {
-    margin: 0;
+    margin: 0px;
 }
 header {
     margin: 0px 0px 20px 0px;
@@ -21,7 +21,7 @@ main {
     justify-content: space-around;
 }
 .contents {
-    border: 3px solid rgb(238,204,204); /* 修正: borderの指定方法を修正 */
+    border: 3px solid rgb(238,204,204);
     flex-basis:25%;
     padding:10px 15px;
     margin:20px 0px;
